@@ -10,7 +10,8 @@ Analysis is performed on the given  dataset keeping the problem statement in min
 
 ## Business Problem :
 In recent years the City hotel and Resort Hotel have seen high cancellations rates . Each hotel is now dealing with a number of issues as a result , like depletion in  Revenues and less than ideal hotel room use (leading to higher service charges) .Consequently , lowering the cancellation rates in both the Hotels is the primary goal to increase their efficiency in generating revenue and we need to assist them in dealing with this issue by solving the issue and also providing some business advice to help optimize the same .
-Assumptions:
+
+# Assumptions:
 1)	No unusual Occurrences (outliers) between 2015 and 2017 will have a substantial impact on the data used .
 2)	There is no hinderance from the hotels towards accepting any advised techniques.
 3)	The hotels are not currently using any of the suggested solutions .
@@ -91,16 +92,9 @@ Next we figure out which country has the highest reservation cancelled . The top
 
 Next we check the area from where the guests are visiting the hotels and making the reservations amongst the 8 different market segments ('Direct' ,'Corporate' ,'Online TA', ,'Offline TA/TO', 'Complementary' ,'Groups' ,'Undefined', 'Aviation').We figure out that about 46% of the clients come from Online Travel agencies whereas 20% come from  'Offline TA/TO' and only 10 % clients book hotels by directly visiting them .Thus our Hypothesis was incorrect. 
 
-![image](https://github.com/Rishavup/Data-Analysis-Hotel-Booking-Project/assets/148663016/8af1f181-206d-4965-a66b-d2813936965f)
-
-
-
-Finally we see that the reservations get cancelled more frequently when average daily rate is higher .It clearly proves all the above analysis that the higher price leads to cancellations .
 
 # Suggestions:
 1. Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates
    for specific hotels based on locations. They can also provide some discounts to the consumers.
-3. As the ratio of the cancellation and not cancellation of the resort hotel is higher in the resort hotel than the city hotels. So the hotels should provide a reasonable
-   discount on the room prices on weekends or on holidays.
-4. In the month of January, hotels can start campaigns or marketing with a reasonable amount to increase their revenue as the cancellation is the highest in this month.
-5. They can also increase the quality of their hotels and their services mainly in Portugal to reduce the cancellation rate.
+2. In the month of January, hotels can start campaigns or marketing with a reasonable amount to increase their revenue as the cancellation is the highest in this month.
+3. They can also increase the quality of their hotels and their services mainly in Portugal and can provide promotional discounts or runs campaigns and  advertisements or provide more facilities in less price to reduce the cancellation rates.
