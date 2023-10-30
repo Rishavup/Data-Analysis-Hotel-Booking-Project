@@ -97,4 +97,4 @@ Next we check the area from where the guests are visiting the hotels and making 
 1. Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates
    for specific hotels based on locations. They can also provide some discounts to the consumers.
 2. In the month of January, hotels can start campaigns or marketing with a reasonable amount to increase their revenue as the cancellation is the highest in this month.
-3. They can also increase the quality of their hotels and their services mainly in Portugal and can provide promotional discounts or runs campaigns and  advertisements or provide more facilities in less price to reduce the cancellation rates.
+3. They can also increase the quality of their hotels and their services mainly in Portugal and can provide promotional discounts or run campaigns and  advertisements or provide more facilities in less price to reduce the cancellation rates.
